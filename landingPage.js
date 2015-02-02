@@ -1,5 +1,5 @@
 if (Meteor.isClient) {
-  
+	GAnalytics.pageview();  
 }
 
 if (Meteor.isServer) {

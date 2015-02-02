@@ -1,0 +1,11 @@
+{
+    "private": {
+        "MailChimp": {
+            "apiKey": "be8a34d1ac9ca9d436bb0402c78df0f8-us10",
+            "listId": "d9a9c105ef"
+        },
+	"ga": {
+     		"account":"UA-59223446-1"
+    	}
+    }
+}

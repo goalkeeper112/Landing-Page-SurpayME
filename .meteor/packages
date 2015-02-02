@@ -8,3 +8,5 @@ meteor-platform
 autopublish
 insecure
 d0minikk:materialize-meteor
+miro:mailchimp
+datariot:ganalytics
